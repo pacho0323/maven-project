@@ -1,8 +1,8 @@
 package com.example;
 
-public class Greeter {
+public final class Greeter {
 
-  public Greeter() {
+  Greeter() {
 
   }
   public final String greet( final String someone) {
